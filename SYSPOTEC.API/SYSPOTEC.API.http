@@ -1,0 +1,6 @@
+@SYSPOTEC.API_HostAddress = http://localhost:5148
+
+GET {{SYSPOTEC.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
